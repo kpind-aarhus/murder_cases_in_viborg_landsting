@@ -8,4 +8,6 @@ After downloading the HTML files, they have been manipulated to avoid too many e
 The JSON files also needed some manipulation to avoid empty case numbers in the first case after each date change. The uploaded JSON files are not the raw output from the HTML to JSON script.
 
 ## Case extractor
-The keywords to extract are found in the CSV-file, but for the sake of simplicity they are hardcoded as a list in the extractor. The keywords were found with the help of running the HTML files through Voyant.
+The keywords to extract are found in the CSV-file, but for the sake of simplicity they are hardcoded as a list in the extractor. The keywords were found with the help of running the HTML files through Voyant. \
+The case extractor scrapes a JSON file and searches for keyword matches. It then creates a new JSON file with the filtered data. \
+As the keywords also contains words related to general violence, every case might not be a murder case.
