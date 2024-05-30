@@ -1,6 +1,6 @@
 # murder_cases_in_viborg_landsting
 A Python based scraper that handles HTML files of Nørgaard-Pedersen's summaries in Viborg Landsting 1569-1666, converts them to JSON and then extracts possible murder cases.\
-The HTML documents can be found at the website http://www.dragtilminde.dk/SLHISTORIE.html. \
+The HTML documents could be found at the website http://www.dragtilminde.dk/SLHISTORIE.html, but the website has since been closed. \
 The skeleton of each script was made with the help of ChatGPT 3.5, but it required several alterations to handle the specific data which ChatGPT did not have access to.
 
 ## HTML to JSON
