@@ -18,7 +18,7 @@ keyword_list = [
     "dræbe", "banemænd", "aflives", "afhuggen", "afhug", "udød", "sønderslog",
     "nedhugge", "meddræber", "manddræbers", "manddrabs", "henrettelse", "henrette",
     "fredløst", "dødsskade", "dødskudt", "dødsår", "dødeligt", "dræbtes", "dræbes",
-    "dræber", "ihjelslået", "nødværge"
+    "dræber", "ihjelslået", "nødværge", "omkommet"
 ]
 
 # Compile regex pattern
