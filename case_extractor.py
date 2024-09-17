@@ -3,8 +3,8 @@ import json
 from pathlib import Path
 
 # Define input and output file paths
-input_file_path = r'json_files\case_data 1569-1591.json'
-output_file_path = r'filtered_json\filtered_data 1569-1591.json'
+input_file_path = r'json_files\case_data 1665-1666.json'
+output_file_path = r'filtered_json\filtered_data 1665-1666.json'
 
 # List of keywords
 keyword_list = [
